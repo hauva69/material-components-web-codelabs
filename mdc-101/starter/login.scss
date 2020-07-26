@@ -1,5 +1,12 @@
 @import "./common";
 
+.username,
+.password {
+  display: flex;
+  margin: 20px auto;
+  width: 300px;
+}
+
 .header {
   text-align: center;
 }
